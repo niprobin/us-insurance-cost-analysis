@@ -1,3 +1,3 @@
 # us-insurance-cost-analysis
- Codecademy Portfolio Project
- Open us-medical-insurance-costs.ipynb to check project
+ Codecademy Portfolio Project<br>
+ Open <strong>us-medical-insurance-costs.ipynb</strong> to check project
